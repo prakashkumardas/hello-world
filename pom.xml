@@ -27,6 +27,13 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
+           
+    <repository>
+    <id>Release</id>
+    <url>http://13.126.211.173:8081/repository/PrakashJanRelease/</url>
+  </repository>
+           
+           
   </distributionManagement>
 
   <build>
